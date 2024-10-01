@@ -2,11 +2,11 @@
 
 **<p align="center">Master Universitario en Ingeniería de Telecomunicación</p>**
 
-**Nombre de la asignatura**: _Desarrollo de aplicaciones para telecomunicaciones_
+_Desarrollo de aplicaciones para telecomunicaciones_ _Curso: 2º_
 
-**Curso**: _2º_
 
- **Nombre y apellidos**: _Jorge Suárez Díaz_
+
+_Jorge Suárez Díaz_
 
 
 
